@@ -1,0 +1,16 @@
+{
+  "strata_root": "%USERPROFILE%\\dev\\Strata",
+  "engine_config": "strata-iq2_xs.json",
+  "model": "",
+  "port": null,
+  "context_window": null,
+  "reasoning_effort": "medium",
+  "startup_timeout_seconds": 180,
+  "stream_idle_timeout_ms": 600000,
+  "codex_command": "codex",
+  "codex_args_prefix": [],
+  "python_path": ".venv\\Scripts\\python.exe",
+  "codex_home": "",
+  "logs_dir": "",
+  "api_key_env": ""
+}

@@ -1,0 +1,9 @@
+/settings.json
+/backups/
+*.log
+*.sqlite*
+__pycache__/
+.venv/
+.env
+.env.*
+.playwright-mcp/
